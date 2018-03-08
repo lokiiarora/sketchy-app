@@ -1,0 +1,25 @@
+{
+  "name": "sketchy-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "npm run export-png && npm run export-eps && npm run export-svg",
+    "export-png": "sketchtool export artboards index.sketch --output=./exports/artboards/png/ --formats=png && sketchtool export layers index.sketch --output=./exports/layers/png/ --formats=png && sketchtool export slices index.sketch --output=./exports/slices/png/ --formats=png",
+    "export-eps": "sketchtool export artboards index.sketch --output=./exports/artboards/eps/ --formats=eps && sketchtool export layers index.sketch --output=./exports/layers/eps/ --formats=eps && sketchtool export slices index.sketch --output=./exports/slices/eps/ --formats=eps",
+    "export-svg": "sketchtool export artboards index.sketch --output=./exports/artboards/svg/ --formats=svg && sketchtool export layers index.sketch --output=./exports/layers/svg/ --formats=svg && sketchtool export slices index.sketch --output=./exports/slices/svg/ --formats=svg",
+    "dump": "sketchtool dump index.sketch > ./exports/dump.json",
+    "lint": "jshint .",
+    "validate": "npm ls"
+  },
+  "pre-commit": [
+    "export",
+    "dump"
+  ],
+  "keywords": [],
+  "author": "Lokesh Raj Arora",
+  "license": "ISC",
+  "dependencies": {
+    "precommit-hook": "^3.0.0"
+  }
+}
