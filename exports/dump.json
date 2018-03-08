@@ -1,0 +1,275 @@
+{
+  "layerStyles" : {
+    "<class>" : "MSSharedStyleContainer",
+    "objects" : [
+
+    ]
+  },
+  "assets" : {
+    "<class>" : "MSAssetCollection",
+    "gradients" : [
+
+    ],
+    "colors" : [
+
+    ],
+    "imageCollection" : {
+      "<class>" : "MSImageCollection",
+      "images" : [
+
+      ]
+    },
+    "images" : [
+
+    ]
+  },
+  "enableSliceInteraction" : 1,
+  "foreignSymbols" : [
+
+  ],
+  "pages" : [
+    {
+      "isFlippedHorizontal" : 0,
+      "style" : {
+        "startDecorationType" : 0,
+        "borderOptions" : {
+          "lineJoinStyle" : 0,
+          "<class>" : "MSStyleBorderOptions",
+          "isEnabled" : 0,
+          "lineCapStyle" : 0,
+          "dashPattern" : [
+
+          ]
+        },
+        "endDecorationType" : 0,
+        "contextSettings" : {
+          "<class>" : "MSGraphicsContextSettings",
+          "opacity" : 1,
+          "blendMode" : 0
+        },
+        "blur" : {
+          "radius" : 10,
+          "<class>" : "MSStyleBlur",
+          "motionAngle" : 0,
+          "isEnabled" : 0,
+          "type" : 0,
+          "center" : {
+            "x" : 0.5,
+            "y" : 0.5
+          }
+        },
+        "reflection" : {
+          "<class>" : "MSStyleReflection",
+          "strength" : 0.5,
+          "isEnabled" : 0,
+          "distance" : 1
+        },
+        "<class>" : "MSStyle",
+        "miterLimit" : 10,
+        "colorControls" : {
+          "hue" : 0,
+          "<class>" : "MSStyleColorControls",
+          "brightness" : 0,
+          "contrast" : 1,
+          "isEnabled" : 0,
+          "saturation" : 1
+        },
+        "fills" : [
+
+        ],
+        "borders" : [
+
+        ],
+        "innerShadows" : [
+
+        ],
+        "shadows" : [
+
+        ]
+      },
+      "horizontalRulerData" : {
+        "<class>" : "MSRulerData",
+        "base" : 0,
+        "guides" : [
+
+        ]
+      },
+      "frame" : {
+        "y" : 0,
+        "<class>" : "MSRect",
+        "constrainProportions" : 0,
+        "height" : 300,
+        "width" : 300,
+        "x" : 0
+      },
+      "hasClickThrough" : 1,
+      "includeInCloudUpload" : 1,
+      "exportOptions" : {
+        "shouldTrim" : 0,
+        "<class>" : "MSExportOptions",
+        "includedLayerIds" : [
+
+        ],
+        "layerOptions" : 0,
+        "exportFormats" : [
+
+        ]
+      },
+      "objectID" : "5BF58B8D-065B-4B1C-BABB-D6EC36ADC004",
+      "rotation" : 0,
+      "layerListExpandedType" : 0,
+      "verticalRulerData" : {
+        "<class>" : "MSRulerData",
+        "base" : 0,
+        "guides" : [
+
+        ]
+      },
+      "isFlippedVertical" : 0,
+      "resizingType" : 0,
+      "<class>" : "MSPage",
+      "layers" : [
+        {
+          "isFlippedHorizontal" : 0,
+          "objectID" : "23918B04-F7DF-436C-B69E-0F492E02D717",
+          "horizontalRulerData" : {
+            "<class>" : "MSRulerData",
+            "base" : 0,
+            "guides" : [
+
+            ]
+          },
+          "frame" : {
+            "y" : -24,
+            "<class>" : "MSRect",
+            "constrainProportions" : 0,
+            "height" : 842,
+            "width" : 595,
+            "x" : 115
+          },
+          "hasClickThrough" : 0,
+          "includeInCloudUpload" : 1,
+          "exportOptions" : {
+            "shouldTrim" : 0,
+            "<class>" : "MSExportOptions",
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "hasBackgroundColor" : 0,
+          "layerListExpandedType" : 0,
+          "resizesContent" : 0,
+          "backgroundColor" : {
+            "<class>" : "MSColor",
+            "value" : "#FFFFFF"
+          },
+          "rotation" : 0,
+          "style" : {
+            "startDecorationType" : 0,
+            "borderOptions" : {
+              "lineJoinStyle" : 0,
+              "<class>" : "MSStyleBorderOptions",
+              "isEnabled" : 0,
+              "lineCapStyle" : 0,
+              "dashPattern" : [
+
+              ]
+            },
+            "endDecorationType" : 0,
+            "contextSettings" : {
+              "<class>" : "MSGraphicsContextSettings",
+              "opacity" : 1,
+              "blendMode" : 0
+            },
+            "blur" : {
+              "radius" : 10,
+              "<class>" : "MSStyleBlur",
+              "motionAngle" : 0,
+              "isEnabled" : 0,
+              "type" : 0,
+              "center" : {
+                "x" : 0.5,
+                "y" : 0.5
+              }
+            },
+            "reflection" : {
+              "<class>" : "MSStyleReflection",
+              "strength" : 0.5,
+              "isEnabled" : 0,
+              "distance" : 1
+            },
+            "<class>" : "MSStyle",
+            "miterLimit" : 10,
+            "colorControls" : {
+              "hue" : 0,
+              "<class>" : "MSStyleColorControls",
+              "brightness" : 0,
+              "contrast" : 1,
+              "isEnabled" : 0,
+              "saturation" : 1
+            },
+            "fills" : [
+
+            ],
+            "borders" : [
+
+            ],
+            "innerShadows" : [
+
+            ],
+            "shadows" : [
+
+            ]
+          },
+          "verticalRulerData" : {
+            "<class>" : "MSRulerData",
+            "base" : 0,
+            "guides" : [
+
+            ]
+          },
+          "isFlippedVertical" : 0,
+          "<class>" : "MSArtboardGroup",
+          "nameIsFixed" : 0,
+          "layers" : [
+
+          ],
+          "isVisible" : 1,
+          "name" : "A4",
+          "resizingType" : 0,
+          "isLocked" : 0,
+          "shouldBreakMaskChain" : 0,
+          "resizingConstraint" : 63,
+          "includeBackgroundColorInExport" : 1
+        }
+      ],
+      "isVisible" : 1,
+      "nameIsFixed" : 0,
+      "name" : "Page 1",
+      "isLocked" : 0,
+      "shouldBreakMaskChain" : 0,
+      "resizingConstraint" : 63
+    }
+  ],
+  "objectID" : "39E70AC4-BE02-499D-82B3-2FFD55E4747E",
+  "currentPageIndex" : 0,
+  "colorSpace" : 0,
+  "<class>" : "MSDocumentData",
+  "layerTextStyles" : {
+    "<class>" : "MSSharedTextStyleContainer",
+    "objects" : [
+
+    ]
+  },
+  "enableLayerInteraction" : 1,
+  "layerSymbols" : {
+    "<class>" : "MSSymbolContainer",
+    "objects" : [
+
+    ]
+  }
+}
