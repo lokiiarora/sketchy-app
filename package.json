@@ -10,7 +10,7 @@
     "export-eps": "sketchtool export artboards index.sketch --output=./exports/artboards/eps/ --formats=eps && sketchtool export layers index.sketch --output=./exports/layers/eps/ --formats=eps && sketchtool export slices index.sketch --output=./exports/slices/eps/ --formats=eps",
     "export-svg": "sketchtool export artboards index.sketch --output=./exports/artboards/svg/ --formats=svg && sketchtool export layers index.sketch --output=./exports/layers/svg/ --formats=svg && sketchtool export slices index.sketch --output=./exports/slices/svg/ --formats=svg",
     "dump": "sketchtool dump index.sketch > ./exports/dump.json",
-    "lint": "jshint .",
+    "lint": "",
     "precommit":"npm run export && npm run dump"
   },
   "pre-commit": [
