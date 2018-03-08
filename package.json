@@ -16,6 +16,7 @@
     "export",
     "dump"
   ],
+  "precommit.colors": true,
   "keywords": [],
   "author": "Lokesh Raj Arora",
   "license": "ISC",
